@@ -1,0 +1,70 @@
+body{
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	font-weight: lighter;
+	margin: 0px;
+	width: 100%;
+	padding: 0px;
+}
+footer {
+	background-color: #575556;
+	color: white;
+	margin: 0px;
+	width: 100%;
+}
+hr{
+	background-color: #f08920;
+	border-color: #f08920;
+	display: inline-block;
+	margin: 0px;
+	margin-left: 0.5em;
+	margin-right: -0.5em;
+	height: 100px;
+	width: 3px;
+}
+.contact {
+	font-size: 0.9em;
+	display: inline-block;
+	padding-left: 4em;
+	padding-top: 1em;
+	padding-bottom: 0em;
+}
+.contact h3{
+	color: #f08920;
+	padding-bottom: 0px;
+	margin-bottom: 0.5em;
+}
+.naranja {
+	color: #f08920;
+}
+.icono-facebook, .icono-twitter, .icono-rss{
+	font-size: 0.1em;
+}
+#social{
+	float: right;
+	padding-right: 4em;
+	position: static;
+	text-align: center;
+}
+#social a{
+	color: white;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+
+}
+#social-media a{
+	margin-top: .7em;
+	margin-right: 1.5em;
+}
+#social-media i{
+	color: #f08920;
+}
+#copy{
+	background-color: #f08920;
+	color: white;
+	font-size: 0.8em;
+	padding: 1.4em;
+	text-align: center;
+	width: 100%;
+}
